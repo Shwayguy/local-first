@@ -1,1 +1,2 @@
-This is text in my readme file
+Text added to README file
+Very good update
